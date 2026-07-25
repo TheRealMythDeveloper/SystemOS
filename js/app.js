@@ -1,0 +1,1 @@
+console.log("Constellation initialized.");
